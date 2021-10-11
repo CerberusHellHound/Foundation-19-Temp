@@ -165,7 +165,7 @@
 
 /obj/item/projectile/bullet/pistol/medium/smg/silver
 	fire_sound = 'sound/weapons/gunshot/gunshot_smg.ogg'
-	damage = 30 //10mm but i have no idea what bimmer wanted for classifaction, so i made it just better normal ammo
+	damage = 35 //10mm but i have no idea what bimmer wanted for classifaction, so i made it just better normal ammo
 	armor_penetration = 18
 	agony = 23
 
